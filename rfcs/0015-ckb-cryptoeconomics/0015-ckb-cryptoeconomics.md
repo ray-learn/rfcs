@@ -12,15 +12,21 @@ Created: 2019-03-08
 
 Public permission-less blockchains are open and distributed systems with diverse groups of participants. A well-designed crypto-economics model is to provide incentives so that participants' pursuit of own economic interests leads to desired emergent behaviors in alignment with the protocol, to contribute to the blockchain network's success.
 
+公有无权限门槛/弱权限门槛的区块链是拥有各个不同参与者群体的开放和分布式的系统。经过优秀设计的加密经济模型，为各类参与者提供激励，以满足其自身的利益追求，并保持与区块链协议的一致行为，达到区块链网络的成功。
+
+MARK: 区块链网络有无边界之说？经济模型是属于边界内的模型还是界内界外融合的模型呢？
+
 More specifically, the design of a crypto-economic system has to provide answers to the following questions:
+确切地说，加密经济系统的设计必须提供下列问题的答案
 
-- How can the economic model ensure the security of the protocol?
-- How can the economic model ensure long term sustainability of the protocol?
-- How can the economic model align the objectives of different actors to grow the value of the protocol network?
+- How can the economic model ensure the security of the protocol?经济模型如何保证协议的安全性？
+- How can the economic model ensure long term sustainability of the protocol?经济模型如何保证协议的长期稳定性？
+- How can the economic model align the objectives of different actors to grow the value of the protocol network?经济模型如何维持不同参与者和网络的价值？
 
-## 2. The Crypto-economics Design of Bitcoin
+## 2. The Crypto-economics Design of Bitcoin 比特币的加密经济设计
 
-The Bitcoin protocol uses its native currency to incentivize miners to validate and produce blocks. The Nakamoto Consensus considers the longest chain as the valid chain, which encourages block producing miners to propagate new blocks as soon as they produce them, validate blocks as soon as they receive them to have the whole network achieve consensus on the global state.
+The Bitcoin protocol uses its native currency to incentivize miners to validate and produce blocks. The Nakamoto Consensus considers the longest chain as the valid chain, which encourages block producing miners to propagate new blocks as soon as they produce them, validate blocks as soon as they receive them to have the whole network achieve consensus on the global state.  
+比特币协议使用原生的货币来激励矿工验证和生成区块。Nakamoto共识采用最长链作为有效链，这也鼓励区块生成的矿工在生成区块之后，尽快的进行广播，并在收到网络新区块的时候第一时间进行验证，以达到全网的最新状态。
 
 The native tokens of the Bitcoin network function both as a utility token and an asset. When bitcoins function as a utility, they can be used to pay transaction fees; when they function as an asset, they can be used to preserve value over time. Those two use cases are often referred to as the "Medium of Exchange" (MoE) use case and the "Store of Value" (SoV) use case. The two use cases are not mutually exclusive. They are both important for the network to function. However, it's important to study the economic motives of the users of both use cases as a guide to analyze the sustainability of the Bitcoin network.
 
